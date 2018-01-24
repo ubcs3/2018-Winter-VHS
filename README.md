@@ -8,9 +8,9 @@ Let's hangout over lunch and learn about new technologies by watching video tuto
 
 Please suggest a video in the ["Suggest a Video!" issue](https://github.com/ubcs3/2018-Winter-VHS/issues/1). Our video hangout series meets every **Wednesday 1-2pm in LSK 121**. Please join the [UBCS3 mailing list](https://ubc.ca1.qualtrics.com/jfe/form/SV_6VCa1EYL5xjlUQ5) to receive weekly updates about the seminar.
 
-| Date | Video | Notes |
+| Date | Video | Links and Resources |
 | :---: | :---: | :---: |
-| January 24 | [Udacity: Data Visualization and D3.js](https://www.youtube.com/watch?v=mfLklbVU7r0&list=PLAwxTw4SYaPmN67oPL09hz8-JUwQ5Aqci) | [D3.js](https://d3js.org/), [Mike Bostock](https://bl.ocks.org/mbostock) and [Udacity](https://www.udacity.com/) |
+| January 24 | [Udacity: Data Visualization and D3.js](https://www.youtube.com/watch?v=mfLklbVU7r0&list=PLAwxTw4SYaPmN67oPL09hz8-JUwQ5Aqci) | [D3.js](https://d3js.org/), [Mike Bostock](https://bl.ocks.org/mbostock), [Scott Murray](http://alignedleft.com/), [Cole Nussbaumer](http://www.storytellingwithdata.com/) and [Udacity](https://www.udacity.com/) |
 | February 7 | | |
 | February 14 | | |
 | February 28 | | |
