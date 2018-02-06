@@ -11,8 +11,8 @@ Please suggest a video in the ["Suggest a Video!" issue](https://github.com/ubcs
 | Date | Video | Links and Resources |
 | :---: | :---: | :---: |
 | January 24 | [Udacity: Data Visualization and D3.js](https://www.youtube.com/watch?v=mfLklbVU7r0&list=PLAwxTw4SYaPmN67oPL09hz8-JUwQ5Aqci) | [D3.js](https://d3js.org/), [Mike Bostock](https://bl.ocks.org/mbostock), [Scott Murray](http://alignedleft.com/), [Cole Nussbaumer](http://www.storytellingwithdata.com/) and [Udacity](https://www.udacity.com/) |
-| January 31 | [Introduction to D3](https://www.youtube.com/watch?v=8jvoTV54nXw) | |
-| February 7 | | |
+| January 31 | [Introduction to D3](https://www.youtube.com/watch?v=8jvoTV54nXw) | *See above* |
+| February 7 | [Learn JavaScript By Building A Bookmarker Application](https://www.youtube.com/watch?v=DIVfDZZeGxM) | [Brad Traversy](http://traversymedia.com/) and [Bookmarker App](https://github.com/bradtraversy/bookmarker) |
 | February 14 | | |
 | February 28 | | |
 | March 7 | | |
